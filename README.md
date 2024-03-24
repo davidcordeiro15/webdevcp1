@@ -10,9 +10,9 @@ Corrigido um problema com imagens que não carregavam corretamente.
 Cor da empresa atualizada para azul (#2980b9) de acordo com a identidade visual.
 Rodapé atualizado com ano correto e erros de digitação corrigidos.
 Corrija o texto sobre a empresa para descrever corretamente o foco e os objetivos do Social Connect.
-Adicione um item “Projeto” ao menu para facilitar a navegação do usuário.
-Adicione texto sobre sua equipe para destacar as qualidades e a experiência de seus funcionários.
-Adicione uma seção de contato com informações de telefone, e-mail e horário de funcionamento.
-Adicione links do Linkedin e Instagram no rodapé para facilitar o acesso às redes sociais da sua empresa.
+Adicionaqdo um item “Projeto” ao menu para facilitar a navegação do usuário.
+Adicionado texto sobre sua equipe para destacar as qualidades e a experiência de seus funcionários.
+Adicionado uma seção de contato com informações de telefone, e-mail e horário de funcionamento.
+Adicionado links do Linkedin e Instagram no rodapé para facilitar o acesso às redes sociais da sua empresa.
 
 Essas mudanças foram implementadas para garantir que a Social Connect proporcione a melhor experiência possível aos seus clientes e se destaque como uma empresa inovadora e comprometida com a qualidade.
