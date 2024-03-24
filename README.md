@@ -16,3 +16,6 @@ Adicionado uma seção de contato com informações de telefone, e-mail e horár
 Adicionado links do Linkedin e Instagram no rodapé para facilitar o acesso às redes sociais da sua empresa.
 
 Essas mudanças foram implementadas para garantir que a Social Connect proporcione a melhor experiência possível aos seus clientes e se destaque como uma empresa inovadora e comprometida com a qualidade.
+
+MEMBROS DO GRUPO: Caio Venancio da Silva, David Alexandre Cordeiro Paixão
+RM: 556030 / 557538
