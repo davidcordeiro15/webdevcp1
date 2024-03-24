@@ -3,6 +3,7 @@
 Social Connect é um projeto inovador no setor automotivo focado na construção de veículos elétricos de alto desempenho. O objetivo do projeto é criar uma experiência única para os clientes e entregar carros personalizados e de alta qualidade.
 
 Alterações feitas
+
 Durante o processo de desenvolvimento do projeto, algumas alterações foram feitas para melhorar a experiência do usuário e a qualidade do produto. Algumas mudanças importantes incluem:
 
 Corrigido um problema com imagens que não carregavam corretamente.
